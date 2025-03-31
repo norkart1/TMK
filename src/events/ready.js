@@ -2,11 +2,8 @@ import { ActivityType } from 'discord.js'
 import { client, logger } from 'robo.js'
 
 const statusArray = [
-	'Coding with MrJAwesome',
-	'Learning new things',
-	'Watching MrJAwesome',
-	'Practicing Robo.js',
-	'Developing new features'
+	'TMK MINECRAFT BEDROCK SERVER',
+	' Typical Miners Kerala'
 ].map((content) => ({
 	content,
 	type: ActivityType.Watching,

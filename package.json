@@ -1,6 +1,6 @@
 {
-	"name": "mrjawesome-slash-commands-js",
-	"description": "Quickstart for creating slash commands by MrJAwesome.",
+	"name": "tmk",
+	"description": "tmk",
 	"version": "1.0.0",
 	"type": "module",
 	"private": true,
